@@ -89,3 +89,35 @@
 // } else {
 //   alert("0 points");
 // }
+//! 5===5 && and || 5===3//
+// console.log(true && false);
+// console.log(true || false);
+
+//! <!>-anti
+// console.log(!true);
+// console.log(!false);
+// let value = prompt("Enter");
+// if (value === "qwerty") {
+//   alert("Correct input!");
+// } else {
+//   alert("Incorrerct input!");
+// }
+// let value = prompt("Enter");
+// console.log(value);
+// // if (value === null) {
+// //   alert("Fill the blunck!");
+// // }
+// console.log(!value);
+// if (!value) {
+//   alert("Fill the blunck 2!");
+// }
+
+// "" - это false;
+// (!fasle=true;)
+// console.log(!"")
+
+/*undefined - это false;
+!false === true;
+console.log(!undefined);*/
+// console.log(!!undefined)
+// console.log(Boolean(undefined));
